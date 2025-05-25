@@ -102,7 +102,8 @@ endmodule
 
 2. FULL SUBTRACTOR
 
-![image](https://github.com/user-attachments/assets/bbc9383a-fb00-487a-9468-093150e49e57)
+![image](https://github.com/user-attachments/assets/48694781-6b17-4907-99c7-1781cb068cb7)
+
 
 
 **Result:**
